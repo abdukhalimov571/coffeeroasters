@@ -18,8 +18,12 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "Arial", sans-serif;
-  background-color: #fff;
+  font-family: "Fraunces", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 26px;
+  background-color: #fefcf7;
+  color: #fefcf7;
 }
 
 img {
@@ -29,10 +33,4 @@ img {
 
 a {
   text-decoration: none;
-}
-
-ul li {
-  margin: 0;
-  padding: 0;
-  list-style: none;
 }
